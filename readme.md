@@ -1,2 +1,2 @@
 # DHome lightswitch
-I dunno what to write here lol
+This is lightswitch firmware made for ESP8266 module with relay to switch light. 
